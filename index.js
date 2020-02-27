@@ -3,12 +3,12 @@ window.addEventListener('load', () => {
   const pads = document.querySelectorAll(".pads div");
   const visual = document.querySelector(".visual");
   const bg = [
-    "url(./img/bloody.JPG)",
-    "url(./img/danger.JPG)",
-    "url(./img/kups.JPG)",
-    "url(./img/pacquiao.JPG)",
-    "url(./img/missionimpossible.JPG)",
-    "url(./img/san.JPG)"
+    "url(./img/bloody.jpg)",
+    "url(./img/danger.jpg)",
+    "url(./img/kups.jpg)",
+    "url(./img/pacquiao.jpg)",
+    "url(./img/missionimpossible.jpg)",
+    "url(./img/san.jpg)"
   ];
 
 
